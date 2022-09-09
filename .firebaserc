@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pokemon-441c5"
+  },
+  "targets": {
+    "pokemon-441c5": {
+      "hosting": {
+        "ng-pokemon-app": [
+          "pokemon-441c5"
+        ]
+      }
+    }
+  }
+}
